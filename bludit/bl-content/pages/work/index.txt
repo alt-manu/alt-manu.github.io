@@ -1,0 +1,27 @@
+<div>
+<table border="1" style="border-collapse: collapse; width: 100%; height: 209px;">
+<tbody>
+<tr style="height: 17px; text-align: center;">
+<td style="width: 100%; height: 17px; text-align: left;"><a href="http://localhost:8000/bludit/letter-2-1">letters 2.1</a></td>
+</tr>
+<tr style="height: 17px; text-align: left;">
+<td style="width: 100%; height: 17px;"><a href="http://localhost:8000/bludit/bludit/auxila">auxila</a></td>
+</tr>
+<tr style="height: 18px; text-align: left;">
+<td style="width: 100%; height: 18px;">cogoport</td>
+</tr>
+<tr style="height: 18px; text-align: left;">
+<td style="width: 100%; height: 18px;">website NID AP: nid.ac.in</td>
+</tr>
+<tr style="height: 17px; text-align: left;">
+<td style="width: 100%; height: 17px;">ubuntu health-care</td>
+</tr>
+<tr style="height: 18px; text-align: left;">
+<td style="width: 100%; height: 18px; text-align: left;">systems study: Railway station, Vijayawada</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px; text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</div>
