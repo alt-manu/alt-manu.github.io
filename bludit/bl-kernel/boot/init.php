@@ -133,7 +133,7 @@ $syslog 	= new Syslog();
 // Base URL
 // The user can define the base URL.
 // Left empty if you want to Bludit try to detect the base URL.
-$base = 'https://alt-manu.github.io/bludit/';
+$base = '';
 
 if (!empty($_SERVER['DOCUMENT_ROOT']) && !empty($_SERVER['SCRIPT_NAME']) && empty($base)) {
 	$base = str_replace($_SERVER['DOCUMENT_ROOT'], '', $_SERVER['SCRIPT_NAME']);
